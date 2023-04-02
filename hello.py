@@ -40,3 +40,5 @@ print("He said \"It\'s a lovely day to learn python\"")
 print('\python\\')
 
 print("\\python\\")
+
+# Hello this new line
